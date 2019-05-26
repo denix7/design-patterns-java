@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=id\ cliente
+comment0.target=Cuenta(int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=id
+comment2.target=void\ setId(int)
+comment3.params=
+comment3.target=java.lang.String\ getCliente()
+comment4.params=cliente
+comment4.target=void\ setCliente(java.lang.String)
+numComments=5

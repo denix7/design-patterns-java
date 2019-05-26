@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=idCuenta\ usuario\ saldoInicial
+comment0.target=Cuenta(int,\ java.lang.String,\ double)
+comment1.params=
+comment1.target=int\ getIdCuenta()
+comment2.params=idCuenta
+comment2.target=void\ setIdCuenta(int)
+comment3.params=
+comment3.target=void\ setUsuario()
+comment4.params=
+comment4.target=java.lang.String\ getUsuario()
+comment5.params=saldoInicial
+comment5.target=void\ setSaldoInicial(double)
+comment6.params=
+comment6.target=double\ getSaldoInicial()
+numComments=7

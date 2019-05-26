@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EstacionEspacial()
+comment1.params=
+comment1.target=java.lang.String\ getMision()
+comment2.params=mision\ costoCombustible
+comment2.target=void\ setMision(java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getCostoCombustible()
+comment4.params=
+comment4.target=void\ notificarMision()
+comment5.params=f
+comment5.target=void\ agregarRocket(Falcon)
+numComments=6

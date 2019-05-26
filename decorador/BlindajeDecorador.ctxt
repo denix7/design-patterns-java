@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=cuentaDecorada
+comment0.target=BlindajeDecorador(ICuentaBancaria)
+comment1.params=c
+comment1.target=void\ abrirCuenta(Cuenta)
+comment2.params=c
+comment2.target=void\ agregarBlindaje(Cuenta)
+numComments=3
